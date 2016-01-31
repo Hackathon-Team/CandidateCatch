@@ -1,3 +1,3 @@
 # CandidateCatch
 
-This is a simple ball and cup game designed to increase political awareness by gamifying politics for the 2016 election.
+This is a simple bucket-ball game designed to increase political awareness by gamifying politics just in time for the 2016 election.
