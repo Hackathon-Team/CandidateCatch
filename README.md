@@ -5,3 +5,5 @@ This is a simple bucket-ball game designed to increase political awareness by ga
 ![Sanders](Images/Faces/sanders-bubble.png)
 
 Created by: Amog Kamsetty, Abi Sarvepalli, Ryan Hoque, Rohan Taori
+
+Check it out on [DevPost](http://devpost.com/software/candidatecatch-90udvo)!
